@@ -11,7 +11,7 @@ require './PHPMailer/src/PHPMailer.php';
 $head = '
 ----------------------------------------------------
 	DumpInMail v0.1, 01-21-2018
-	by Amael Parreaux-Ey, GitHub
+	by Amael Parreaux-Ey, GitHub https://github.com/Amael-PE/DumpInMail
 ----------------------------------------------------
 ';
 							
